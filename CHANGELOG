@@ -1,0 +1,7 @@
+v1.3   - 27/03/2023: adapte the template to xetex engine
+v1.2.3 - 08/09/2021: adjusted footer and header, thanks to Adel Noureddine.
+v1.2.2 - 21/11/2020: adjusted to allow lists in notes, thanks to Christophe Gravier.
+v1.2.1 - 25/02/2020: modification to fit the changes in packages pgfgantt, thanks to Nicolas Marchand.
+v1.2   - 02/03/2019: minor adjustments to match the 2019 version of the template.
+v1.1   -    04/2018: minor adjustments in the class.
+v1     -    03/2018: first draft.
