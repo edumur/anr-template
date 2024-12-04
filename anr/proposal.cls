@@ -1,6 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Unofficial example of ANR Project proposal
 %%
+%% v1.4   - 04/12/2024: adapte the template to lualatex engine
 %% v1.3   - 27/03/2023: adapte the template to xetex engine
 %% Fork by etienne.dumur@cea.fr
 %% https://github.com/edumur/anr-template
@@ -27,6 +28,10 @@
 %% encoding and stuff
 
 \RequirePackage[english]{babel}				% language package
+% When using babel or polyglossia with biblatex, loading csquotes is recommended
+% to ensure that quoted texts are typeset according to the rules of your main language.
+\RequirePackage{csquotes}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% font settings

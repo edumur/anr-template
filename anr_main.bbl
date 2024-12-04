@@ -1,0 +1,141 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Dumur2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=de36ec3216aa1bb60a0161b0b1f1f409}{%
+           family={Dumur},
+           familyi={D\bibinitperiod},
+           given={Étienne},
+           giveni={É\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Grenoble Alpes}%
+      }
+      \strng{namehash}{de36ec3216aa1bb60a0161b0b1f1f409}
+      \strng{fullhash}{de36ec3216aa1bb60a0161b0b1f1f409}
+      \strng{bibnamehash}{de36ec3216aa1bb60a0161b0b1f1f409}
+      \strng{authorbibnamehash}{de36ec3216aa1bb60a0161b0b1f1f409}
+      \strng{authornamehash}{de36ec3216aa1bb60a0161b0b1f1f409}
+      \strng{authorfullhash}{de36ec3216aa1bb60a0161b0b1f1f409}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{number}{2015GREAY003}
+      \field{title}{A V-shape superconducting artificial atom for circuit quantum electrodynamics}
+      \field{type}{Theses}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://tel.archives-ouvertes.fr/tel-01147222
+      \endverb
+      \verb{url}
+      \verb https://tel.archives-ouvertes.fr/tel-01147222
+      \endverb
+      \keyw{Quantum nano-electronic ; Superconductor quantum bit ; Dc-SQUID ; Quantum electrodynamics ; Nano-électronique quantique ; Bit quantique supraconducteur ; SQUID-dc ; Électrodynamique quantique}
+    \endentry
+    \entry{Dumur2021}{article}{}
+      \name{author}{11}{}{%
+        {{hash=7f81d53c7b37a315e72d3136aa8d20a3}{%
+           family={Dumur},
+           familyi={D\bibinitperiod},
+           given={É.},
+           giveni={É\bibinitperiod}}}%
+        {{hash=04c8bf205e6cd389b99451247271ce2e}{%
+           family={Satzinger},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=06d64b6b546223734a63e779d037999f}{%
+           family={Peairs},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3bd3861a52dd72ef8aa6d5eb93f1ab7e}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={M.-H.},
+           giveni={M\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=75b0d381d4dc6094820cba1a443dd96e}{%
+           family={Bienfait},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8df39a8fe8a86103f2467a85029376b2}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={H.-S.},
+           giveni={H\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=0295bc658b9e1e40f948bac301cdeb00}{%
+           family={Conner},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=582e092db46be95bcef32ddd24c0198b}{%
+           family={Grebel},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a280ecb74620692acda1f7666792c716}{%
+           family={Povey},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=fb0b4591df8a0380c34243ad8057c77f}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Y.\bibnamedelimi P.},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bf6390c6d3a244e3af87604b90dc5b30}{%
+           family={Cleland},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{b48b86b94d8c9e95d632746a4989c8ae}
+      \strng{fullhash}{05c9bb837f94eeb2bb4985f4c82036e9}
+      \strng{bibnamehash}{b48b86b94d8c9e95d632746a4989c8ae}
+      \strng{authorbibnamehash}{b48b86b94d8c9e95d632746a4989c8ae}
+      \strng{authornamehash}{b48b86b94d8c9e95d632746a4989c8ae}
+      \strng{authorfullhash}{05c9bb837f94eeb2bb4985f4c82036e9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{npj Quantum Inf.}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Quantum communication with itinerant surface acoustic wave phonons}
+      \field{volume}{7}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41534-021-00511-1
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

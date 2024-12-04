@@ -1,4 +1,4 @@
-# ANR template
+# ANR template LuaLatex
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -7,7 +7,6 @@ This repository store an unofficial template for the ANR.
 I am not against the official ANR word template but I see several limitations in it:
 * You need word (proprietary and expensive).
 * Strongly limited bibliography engine (usually Mendely so same as above x2).
-*
 
 ## Example
 
@@ -20,7 +19,7 @@ This template is heavily based on the work initiated by Vincent labatut vincent.
 His template is still maintained and may be found [here](https://www.overleaf.com/latex/templates/unofficial-template-for-anr-proposals/yqgzsxkzrqkw).
 Do not hesitate to have a look on his work!
 
-This fork mainly adapted the previous template, made for PDFLaTeX, to the XeTeX engine.
+This fork mainly adapted the previous template, made for PDFLaTeX, to the LuaLatex engine.
 It allows for the use of modern font, here [calibri](https://en.wikipedia.org/wiki/Calibri) and direct utf-8.
 
 ## Acknowledgment

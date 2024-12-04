@@ -1,3 +1,4 @@
+v1.3   - 04/12/2024: adapte the template to lualatex engine
 v1.3   - 27/03/2023: adapte the template to xetex engine
 v1.2.3 - 08/09/2021: adjusted footer and header, thanks to Adel Noureddine.
 v1.2.2 - 21/11/2020: adjusted to allow lists in notes, thanks to Christophe Gravier.
